@@ -29,5 +29,5 @@ public:
 	Input: n = 25
 	Output: 1389537
 	
-	
+	T.C : O(3^n)
 */
